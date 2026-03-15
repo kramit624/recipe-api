@@ -2,7 +2,7 @@
 
 A production-grade REST API platform built for developers. 600+ AI-generated Indian recipes with full authentication, API key management, analytics, rate limiting, and a community recipe submission system.
 
-**Live Demo:** [recipeapi.dev](https://recipeapi.dev) &nbsp;|&nbsp;  **API Docs:** [app.recipeapi.dev/docs](https://app.recipeapi.dev/docs)
+**Live Demo:** [recipeapi.dev](https://recipe-api-ruby-xi.vercel.app/) &nbsp;|&nbsp;  **API Docs:** [app.recipeapi.dev/docs](https://recipe-api-ruby-xi.vercel.app/docs)
 
 ---
 ## 📸 Screenshots
@@ -251,8 +251,8 @@ VITE_ADMIN_EMAIL=youremail@gmail.com
 
 ### Backend
 ```bash
-git clone https://github.com/yourusername/recipeapi-backend
-cd recipeapi-backend
+git clone https://github.com/kramit624/recipe-api
+cd backend
 npm install
 cp .env.example .env
 # Fill in your .env values
@@ -261,8 +261,8 @@ npm run dev
 
 ### Frontend
 ```bash
-git clone https://github.com/yourusername/recipeapi-frontend
-cd recipeapi-frontend
+git clone https://github.com/kramit624/recipe-api
+cd frontend
 npm install
 cp .env.example .env
 # Fill in your .env values
